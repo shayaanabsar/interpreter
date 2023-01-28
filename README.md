@@ -1,23 +1,23 @@
-#Documentation
+# Documentation
 
-##Data Types
+## Data Types
 - String
 - Number 
 - Boolean
 
-##Arithmetic Operators
+## Arithmetic Operators
 - \+
 - \-
 - \\
 - \*
 - % (modulo)
 
-##Logical Operators
+## Logical Operators
 - && (And)
 - || (Or)
 - ! (Not)
 
-##Comparators
+## Comparators
 - ==
 - !=
 - \>
@@ -77,7 +77,7 @@ Note: the parenthesis around the condition are not required.
         }
     }
 
-##Loops
+## Loops
 ###While
     moreData = "y"
     while (moreData == "y") {
@@ -87,7 +87,7 @@ Note: the parenthesis around the condition are not required.
     }
 
 ## Functions
-###Definitions
+### Definitions
 Functions can be defined using the 'func' keyword.
     
     func isEven(num) {
