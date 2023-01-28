@@ -78,7 +78,7 @@ Note: the parenthesis around the condition are not required.
     }
 
 ## Loops
-###While
+### While
     moreData = "y"
     while (moreData == "y") {
         stdin data
